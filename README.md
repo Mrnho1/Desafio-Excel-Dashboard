@@ -119,4 +119,26 @@ O dashboard foi estruturado com:
 
 ---
 
-## 📁 Estrutura do Repositório
+
+---
+
+## 🚀 Como Reproduzir
+
+1. Baixe o arquivo `.xlsx`
+2. Abra no Microsoft Excel
+3. Utilize os filtros de mês para explorar os dados
+4. Analise os gráficos e indicadores
+
+---
+
+## 📌 Conclusão
+
+Este projeto demonstra habilidades em:
+
+- Estruturação de base de dados
+- Criação de KPIs estratégicos
+- Construção de dashboard executivo
+- Análise exploratória
+- Tradução de dados em insights de negócio
+
+Projeto desenvolvido com foco em portfólio para consolidação na área de **Análise de Dados**.
